@@ -1,5 +1,5 @@
 {
-  "name": "redux-saga-beginner-tutorial",
+  "name": "redux-saga-intro",
   "version": "0.0.1",
   "description": "Redux Saga beginner tutorial",
   "main": "lib/index.js",
@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redux-saga/redux-saga-beginner-tutorial.git"
+    "url": "git+https://github.com/HelpMe-Pls/redux-saga-intro.git"
   },
-  "author": "Yassine ELOUAFI <yelouafi@gmail.com>",
+  "author": "Random Guy <randomguy69@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "@reduxjs/toolkit": "^1.8.5",
     "prop-types": "^15.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
